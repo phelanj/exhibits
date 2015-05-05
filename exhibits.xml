@@ -171,7 +171,7 @@ exhibits.xml in the DATA FOLDER. NOT this folder. -->
 		</object>
 		<object>
 			<alias>/showgirls</alias>
-			<pointer>178/</pointer>
+			<pointer>178</pointer>
 			<caption>The Jean Devlyn dancers, 1940’s</caption>
 		</object>
 		<object>
