@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- This is a sample exhibits file. Do not edit! Instead, place a copy called
+exhibits.xml in the DATA FOLDER. NOT this folder. -->
+<exhibits>
+	<exhibit>
+		<name>Donn Arden and the nightclub show</name>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>240</pointer>
+			<caption>Portrait of Donn Arden, 1940's with the ubiquitous cigarette</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>245</pointer>
+			<caption>Donn Arden posing with his dance line, 1940’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>174</pointer>
+			<caption>The Donn Arden Dancers, 1940’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>185</pointer>
+			<caption>Donn Arden with costume mistress and designer checking a costume against the design drawing</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>183</pointer>
+			<caption>Donn Arden putting the final touches on a dancer’s costume.</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>546</pointer>
+			<caption>A Donn Arden stage production, 1950s</caption>
+		</object>
+		<object>
+			<alias>/sky</alias>
+			<pointer>2208</pointer>
+			<caption>Wilbur Clark’s Desert Inn under construction. Its famous YESCO sign is being hoisted into place</caption>
+		</object>
+		<object>
+			<alias>/sky</alias>
+			<pointer>1699</pointer>
+			<caption>The Desert Inn, 1950’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>538</pointer>
+			<caption>Donn Arden’s dance line on stage in a production.</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>545</pointer>
+			<caption>A Donn Arden production at the Latin Quarter in Miami</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>209</pointer>
+			<caption>Erté (Romain de Tirtoff). Panther costume, 1938</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>208</pointer>
+			<caption>Erté, Théâtre du Châtelet, Paris 1934</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>207</pointer>
+			<caption>Erté Perfumes costume design, Folies Bergére, Paris 1927</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>203</pointer>
+			<caption>"The Black Cape" illustration for Oscar Wilde's English translation of Salome, 1894</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>202</pointer>
+			<caption>“The Peacock Skirt” illustration from Oscar Wilde’s Salome, 1894</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>73</pointer>
+			<caption>José Luis Viñas costume design for Casino de Paris</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>107</pointer>
+			<caption>unidentified costume drawing</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>108</pointer>
+			<caption>unidentified costume drawing</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>109</pointer>
+			<caption>unidentified costume drawing</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>23</pointer>
+			<caption>costume design for Jean Devlyn, 1940’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>29</pointer>
+			<caption>costume design for Donn Arden, 1950</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>105</pointer>
+			<caption>1970’s costume design by Josephine Spinedi who while dancing in Italy studied fashion design. She later designed costumes for shows by Harold Minsky and Matt Gregory</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>98</pointer>
+			<caption>Josephine Spinedi design</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>532</pointer>
+			<caption>Lido de Paris showgirls at the Stardust Hotel, Las Vegas, 1975</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>232</pointer>
+			<caption>The young Frank Sinatra on stage in the Copa Room, at the Sands Hotel, 1954</caption>
+		</object>
+		<object>
+			<alias>/pho</alias>
+			<pointer>49</pointer>
+			<caption>Lena Horne in the Copa Room, 1960</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>476</pointer>
+			<caption>Danny Thomas with Copa Girls at the Sands Hotel, 1950’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>546</pointer>
+			<caption>A Donn Arden Production at Miami’s Latin Quarter</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>543</pointer>
+			<caption>Donn Arden’s Lido at the Stardust Hotel, 1960’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>190</pointer>
+			<caption>Donn Arden’s Paris Lido show</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>253</pointer>
+			<caption>The Lido in Paris</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>14</pointer>
+			<caption>Calypso costume sketch for the Jean Devlyn dancers, 1940’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>179</pointer>
+			<caption>The Jean Devlyn dancers in calypso costumes, 1940’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>178/</pointer>
+			<caption>The Jean Devlyn dancers, 1940’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>177</pointer>
+			<caption>The Jean Devlyn dancers on stage, 1940’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>147</pointer>
+			<caption>Copa girls at the Sands Hotel, 1950’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>152</pointer>
+			<caption>Copa girls, 1960</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>456</pointer>
+			<caption>Copa girls with male singer, 1960</caption>
+		</object>
+	</exhibit>
+	<exhibit>
+		<name>Lido at the Stardust</name>
+		<object>
+			<alias>/sky</alias>
+			<pointer>2178</pointer>
+			<caption>The Stardust Hotel with its famous YESCO sign advertising Arden’s Lido de Paris Show</caption>
+		</object>
+		<object>
+			<alias>/sky</alias>
+			<pointer>2093</pointer>
+			<caption>The Lido de Paris “All New 1961 Revue Adults only, 70 stars”</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>187</pointer>
+			<caption>Sign for the Lido “avec Plaisir” show in Paris, 1950’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>191</pointer>
+			<caption>Donn Arden’s Paris Lido show, 1950’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>186</pointer>
+			<caption>Donn Arden onstage with dance mistress Margaret Kelly (AKA Madame Bluebell), Lido owner Pierre-Louis Guérin during rehearsal at the Lido in Paris.</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>172</pointer>
+			<caption>Donn Arden, Madame Bluebell, and designer Fost during a rehearsal in Paris </caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>212</pointer>
+			<caption>Margaret Kelly, Louis Folco, Donn Arden and Pierre-Louis Guérin toasting the Lido's 10th anniversary, Paris, France, 1956 </caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>477</pointer>
+			<caption>The Bluebell Girls arrive in Las Vegas</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>197</pointer>
+			<caption>Bluebells arriving in Las Vegas</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>217</pointer>
+			<caption>Donn Arden and Madame Bluebell relaxing during a rehearsal in Paris</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>226</pointer>
+			<caption>Arden and Margaret Kelly watching a rehearsal in Paris in the 1980’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>255</pointer>
+			<caption>The Lido at the Stardust, “C’est Magnifique” 1958</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>540</pointer>
+			<caption>Donn Arden, Margaret Kelly (Madame Bluebell), Frank Sennes and others with the Bluebell Girls at the Stardust Hotel</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>198</pointer>
+			<caption>Lido de Paris, at the Stardust , 1960’s</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>229</pointer>
+			<caption>Lido de Paris</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>249</pointer>
+			<caption>Program for Lido de Paris at the Stardust Hotel</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>192</pointer>
+			<caption>Lido Las Vegas</caption>
+		</object>
+		<object>
+			<alias>/menus</alias>
+			<pointer>5576</pointer>
+			<caption>Folies Bergère ’75, dinner menu</caption>
+		</object>
+		<object>
+			<alias>/menus</alias>
+			<pointer>3742</pointer>
+			<caption>Folies Bergère ’81 dinner menu</caption>
+		</object>
+		<object>
+			<alias>/menus</alias>
+			<pointer>1223</pointer>
+			<caption>Casino de Paris dinner menu, 1977</caption>
+		</object>
+		<object>
+			<alias>/menus</alias>
+			<pointer>6453</pointer>
+			<caption>Casino de Paris dinner menu, 1974</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>181</pointer>
+			<caption>Minsky’s Girls of 1960</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>239</pointer>
+			<caption>Minsky’s Follies at the Dunes Hotel</caption>
+		</object>
+		<object>
+			<alias>/sky</alias>
+			<pointer>211</pointer>
+			<caption>Minsky’s Burlesque at the Thunderbird Hotel</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>525</pointer>
+			<caption>Donn Arden’s new show “Pzazz! which he staged at the new Desert Inn</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>516</pointer>
+			<caption>Arden’s “Pzazz! 70”</caption>
+		</object>
+	</exhibit>
+	<exhibit>
+		<name>The Modern Ziegfeld: Halleluja Hollywood</name>
+		<object>
+			<alias>/sky</alias>
+			<pointer>562</pointer>
+			<caption>The MGM Grand</caption>
+		</object>
+		<object>
+			<alias>/sky</alias>
+			<pointer>560</pointer>
+			<caption>The original MGM porte-cochères</caption>
+		</object>
+		<object>
+			<alias>/sky</alias>
+			<pointer>1400</pointer>
+			<caption>The architect’s comparative theater analysis showing the new MGM showroom compared to other hotel theaters</caption>
+		</object>
+		<object>
+			<alias>/sky</alias>
+			<pointer>508</pointer>
+			<caption>The theater seating for the MGM showroom</caption>
+		</object>
+		<object>
+			<alias>/sky</alias>
+			<pointer>515</pointer>
+			<caption>Mechanical drawings of the lifts in the MGM showroom</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>235</pointer>
+			<caption>Hallelujah Hollywood program</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>57</pointer>
+			<caption>costume drawing Hallelujula Hollywood, 1974</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>56</pointer>
+			<caption>costume drawing for Hallelujula Hollywood, 1974</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>66</pointer>
+			<caption>Hallelujula Hollywood costume drawing, 1974</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>67</pointer>
+			<caption>Hallelujula Hollywood costume drawing, 1974</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>61</pointer>
+			<caption>Hallelujula Hollywood costume drawing, 1974</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>62</pointer>
+			<caption>Hallelujula Hollywood costume drawing, 1974</caption>
+		</object>
+	</exhibit>
+	<exhibit>
+		<name>Jubilee</name>
+		<object>
+			<alias>/sky</alias>
+			<pointer>89</pointer>
+			<caption>The MGM Grand Fire, November 21, 1980</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>234</pointer>
+			<caption>Jubilee! 20th Anniversary Program</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>311</pointer>
+			<caption>Pete Menefee design for Minstrel Opening, Al Jolson character</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>346</pointer>
+			<caption>Robert Mackie design for Celestial Nights scene in the Bandwagon finale</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>360</pointer>
+			<caption>Pete Menefee design for Samson and Delilah’s banquet scene</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>375</pointer>
+			<caption>Pete Menefee design for Samson and Delilah’s Living Curtain scene</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>341</pointer>
+			<caption>Bob Mackie design for gold-digger girl, for the B-Babies scene in the Bandwagon finale</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>37</pointer>
+			<caption>Bob Mackie design for gold-digger girl, for the B-Babies scene in the Bandwagon finale</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>47</pointer>
+			<caption>Bob Mackie design “Blue #1” for Stairway scene of the Bandwagon finale</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>336</pointer>
+			<caption>Bob Mackie design for Stairway scene of the Bandwagon finale</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>46</pointer>
+			<caption>Bob Mackie design “Purple #1”for Stairway scene of the Bandwagon finale</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>45</pointer>
+			<caption>Bob Mackie design “Red #1”for Stairway scene of the Bandwagon finale</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>211</pointer>
+			<caption>Ad campaign poster, “Your wildest dreams weren't wild enough,” Las Vegas, circa 1997</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>195</pointer>
+			<caption>Lido de Paris, Stardust, 1978</caption>
+		</object>
+		<object>
+			<alias>/showgirls</alias>
+			<pointer>479</pointer>
+			<caption>Lido, Las Vegas</caption>
+		</object>
+	</exhibit>	
+</exhibits>
