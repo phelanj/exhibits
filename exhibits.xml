@@ -228,22 +228,6 @@ exhibits.xml in the DATA FOLDER. NOT this folder.-->
 			<pointer>192</pointer>
 		</object>
 		<object>
-			<alias>/menus</alias>
-			<pointer>5576</pointer>
-		</object>
-		<object>
-			<alias>/menus</alias>
-			<pointer>3742</pointer>
-		</object>
-		<object>
-			<alias>/menus</alias>
-			<pointer>1223</pointer>
-		</object>
-		<object>
-			<alias>/menus</alias>
-			<pointer>6453</pointer>
-		</object>
-		<object>
 			<alias>/showgirls</alias>
 			<pointer>181</pointer>
 		</object>
