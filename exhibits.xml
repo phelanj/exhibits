@@ -105,10 +105,6 @@ exhibits.xml in the DATA FOLDER. NOT this folder.-->
 			<pointer>232</pointer>
 		</object>
 		<object>
-			<alias>/pho</alias>
-			<pointer>49</pointer>
-		</object>
-		<object>
 			<alias>/showgirls</alias>
 			<pointer>476</pointer>
 		</object>
@@ -218,10 +214,6 @@ exhibits.xml in the DATA FOLDER. NOT this folder.-->
 		<object>
 			<alias>/showgirls</alias>
 			<pointer>229</pointer>
-		</object>
-		<object>
-			<alias>/showgirls</alias>
-			<pointer>249</pointer>
 		</object>
 		<object>
 			<alias>/showgirls</alias>
