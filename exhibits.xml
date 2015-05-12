@@ -301,10 +301,7 @@ exhibits.xml in the DATA FOLDER. NOT this folder.-->
 	</exhibit>
 	<exhibit>
 		<name>Jubilee</name>
-		<object>
-			<alias>/sky</alias>
-			<pointer>89</pointer>
-		</object>
+
 		<object>
 			<alias>/showgirls</alias>
 			<pointer>234</pointer>
